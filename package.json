@@ -1,4 +1,5 @@
 {
+  "homepage":"https://guille-block.github.io/TransactionScanner",
   "name": "block_analytics",
   "version": "0.1.0",
   "private": true,
@@ -14,6 +15,8 @@
     "web3": "^1.5.2"
   },
   "scripts": {
+    "predeploy": "npm run build",
+    "deploy": "gh-pages -d build",
     "start": "react-scripts start",
     "build": "react-scripts build",
     "test": "react-scripts test",

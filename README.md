@@ -7,8 +7,8 @@ The main purpose of this app is to retrieve user's wallet transactions through a
 
 You can interact with the hosted react app at 
 
-```{js}
-```
+<link>https://guille-block.github.io/TransactionScanner/</link>
+
 For development purpose, first clone the project in your local repository.
 Then install the node dependencies:
 
