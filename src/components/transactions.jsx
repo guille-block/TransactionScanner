@@ -1,5 +1,6 @@
 import React from 'react';
 import web3 from 'web3'
+import './components.css'
 
 const Transaction = ({transactionChild}) => {
     return(

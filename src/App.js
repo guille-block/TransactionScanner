@@ -2,6 +2,7 @@ import React, {useEffect, useState} from 'react';
 import Web3 from 'web3';
 import Transaction from './components/transactions'
 import Balances from './components/balances'
+import './App.css';
 
 
 

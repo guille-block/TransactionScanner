@@ -1,9 +1,8 @@
 import React from 'react';
 import web3 from 'web3'
+import './components.css'
 
 const Balances = ({balance, date, address}) => {
-
-    //await getEthBalance()
 
     return(
         <div>
