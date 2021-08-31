@@ -3,7 +3,6 @@ import web3 from 'web3'
 import './components.css'
 
 const Balances = ({balance, date, address}) => {
-
     return(
         <div>
         <table class="styled-table">
