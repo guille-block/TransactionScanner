@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/TransactionScanner/static/css/main.349527a4.chunk.css",
+    "main.js": "/TransactionScanner/static/js/main.701dcdad.chunk.js",
+    "main.js.map": "/TransactionScanner/static/js/main.701dcdad.chunk.js.map",
+    "runtime-main.js": "/TransactionScanner/static/js/runtime-main.3a6ab67b.js",
+    "runtime-main.js.map": "/TransactionScanner/static/js/runtime-main.3a6ab67b.js.map",
+    "static/js/2.9f7401cd.chunk.js": "/TransactionScanner/static/js/2.9f7401cd.chunk.js",
+    "static/js/2.9f7401cd.chunk.js.map": "/TransactionScanner/static/js/2.9f7401cd.chunk.js.map",
+    "static/js/3.605172da.chunk.js": "/TransactionScanner/static/js/3.605172da.chunk.js",
+    "static/js/3.605172da.chunk.js.map": "/TransactionScanner/static/js/3.605172da.chunk.js.map",
+    "index.html": "/TransactionScanner/index.html",
+    "static/css/main.349527a4.chunk.css.map": "/TransactionScanner/static/css/main.349527a4.chunk.css.map",
+    "static/js/2.9f7401cd.chunk.js.LICENSE.txt": "/TransactionScanner/static/js/2.9f7401cd.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.3a6ab67b.js",
+    "static/js/2.9f7401cd.chunk.js",
+    "static/css/main.349527a4.chunk.css",
+    "static/js/main.701dcdad.chunk.js"
+  ]
+}
