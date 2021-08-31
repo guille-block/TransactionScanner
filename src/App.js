@@ -1,5 +1,6 @@
 import React, {useEffect, useState} from 'react';
 import Web3 from 'web3';
+import Transaction from './components/transactions'
 
 
 
@@ -129,7 +130,8 @@ const getEthBalance = async () => {
           </form>
         </div>
         <div className = "div-table">
-          {}
+          <Transaction
+          transactionChild = {transactions}/>
         </div>
       </body>
     </div>
